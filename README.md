@@ -1,4 +1,4 @@
-# Smart Meeting Assistant
+# Jigri Dost Meeting Assistant
 
 An AI-powered meeting assistant that provides real-time transcription, note-taking, and automated Minutes of Meeting (MoM) generation.
 
@@ -47,7 +47,7 @@ An AI-powered meeting assistant that provides real-time transcription, note-taki
 ## Project Structure
 
 ```
-smart-meeting-assistant/
+jigri-dost-meeting-assistant/
 ├── frontend/           # React frontend application
 ├── backend/           # Node.js backend server
 └── package.json       # Root package.json

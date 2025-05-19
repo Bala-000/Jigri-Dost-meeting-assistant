@@ -19,7 +19,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       <Box bg="brand.600" px={4}>
         <Flex h={16} alignItems="center" justifyContent="space-between">
           <Heading size="md" color="white">
-            Smart Meeting Assistant
+            Jigri Dost Meeting Assistant
           </Heading>
           <Stack direction="row" spacing={4}>
             <Link

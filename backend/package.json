@@ -1,7 +1,7 @@
 {
-  "name": "smart-meeting-assistant-backend",
+  "name": "jigri-dost-meeting-assistant-backend",
   "version": "1.0.0",
-  "description": "Backend server for Smart Meeting Assistant",
+  "description": "Backend server for Jigri Dost Meeting Assistant",
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node-dev --respawn --transpile-only src/index.ts",

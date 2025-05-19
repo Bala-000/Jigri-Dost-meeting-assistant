@@ -1,5 +1,5 @@
 {
-  "name": "smart-meeting-assistant",
+  "name": "jigri-dost-meeting-assistant",
   "version": "1.0.0",
   "description": "AI-powered meeting assistant with real-time transcription and MoM generation",
   "scripts": {
